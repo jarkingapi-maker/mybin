@@ -1,3 +1,0 @@
-Test upload from domain: ifast.cf:8090
-Timestamp: 2025-08-22 17:45:26
-Data size: 151 bytes
